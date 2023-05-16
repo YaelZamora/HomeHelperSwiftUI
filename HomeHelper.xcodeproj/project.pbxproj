@@ -15,6 +15,7 @@
 		9A3055C22A0ECC0900C8A38F /* AccountTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A3055C12A0ECC0900C8A38F /* AccountTab.swift */; };
 		9A3055C42A0ECC3300C8A38F /* RoomsTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A3055C32A0ECC3300C8A38F /* RoomsTab.swift */; };
 		9A3055C62A0ECC4100C8A38F /* DevicesTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A3055C52A0ECC4100C8A38F /* DevicesTab.swift */; };
+		9A3EA3AB2A13F166000C9FF9 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A3EA3AA2A13F166000C9FF9 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		9A3055C12A0ECC0900C8A38F /* AccountTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountTab.swift; sourceTree = "<group>"; };
 		9A3055C32A0ECC3300C8A38F /* RoomsTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomsTab.swift; sourceTree = "<group>"; };
 		9A3055C52A0ECC4100C8A38F /* DevicesTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevicesTab.swift; sourceTree = "<group>"; };
+		9A3EA3AA2A13F166000C9FF9 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				9A3055BA2A0ECBCD00C8A38F /* Tabs */,
 				9A3055AC2A0ECB2100C8A38F /* HomeHelperApp.swift */,
 				9A3055AE2A0ECB2100C8A38F /* ContentView.swift */,
+				9A3EA3AA2A13F166000C9FF9 /* DetailView.swift */,
 				9A3055B02A0ECB2300C8A38F /* Assets.xcassets */,
 				9A3055B22A0ECB2300C8A38F /* Preview Content */,
 			);
@@ -160,6 +163,7 @@
 				9A3055BC2A0ECBDD00C8A38F /* HomeTab.swift in Sources */,
 				9A3055C42A0ECC3300C8A38F /* RoomsTab.swift in Sources */,
 				9A3055C22A0ECC0900C8A38F /* AccountTab.swift in Sources */,
+				9A3EA3AB2A13F166000C9FF9 /* DetailView.swift in Sources */,
 				9A3055C62A0ECC4100C8A38F /* DevicesTab.swift in Sources */,
 				9A3055AF2A0ECB2100C8A38F /* ContentView.swift in Sources */,
 				9A3055AD2A0ECB2100C8A38F /* HomeHelperApp.swift in Sources */,
